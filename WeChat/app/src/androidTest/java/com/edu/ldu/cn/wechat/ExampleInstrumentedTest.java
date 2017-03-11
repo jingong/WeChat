@@ -1,0 +1,26 @@
+package com.edu.ldu.cn.wechat;
+
+import android.content.Context;
+import android.support.test.InstrumentationRegistry;
+import android.support.test.runner.AndroidJUnit4;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+
+import static org.junit.Assert.*;
+
+/**
+ * Instrumentation activity_friend, which will execute on an Android device.
+ *
+ * @see <a href="http://d.android.com/tools/testing">Testing documentation</a>
+ */
+@RunWith(AndroidJUnit4.class)
+public class ExampleInstrumentedTest {
+    @Test
+    public void useAppContext() throws Exception {
+        // Context of the app under activity_friend.
+        Context appContext = InstrumentationRegistry.getTargetContext();
+
+        assertEquals("com.edu.ldu.cn.wechat", appContext.getPackageName());
+    }
+}
