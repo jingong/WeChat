@@ -9,20 +9,20 @@
 <img src="https://github.com/jingong/WeChat/blob/master/screenshot/1.png" /><br>
 <br>
 ###后台界面：<br>
-<img src="https://github.com/jingong/WeChat/blob/master/screenshot/2.png" /><br>
+<img src="https://github.com/jingong/WeChat/blob/master/screenshot/2.png" /><br><br>
 ###控制台截图：<br>
-<img src="https://github.com/jingong/WeChat/blob/master/screenshot/9.png" /><br>
+<img src="https://github.com/jingong/WeChat/blob/master/screenshot/9.png" /><br><br>
 <br>
 ###前端截图：<br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/3.jpg" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/4.jpg" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/5.jpg" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/6.jpg" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/7.png" /><br>
-<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/8.jpg" /><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/3.jpg" /><br><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/4.jpg" /><br><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/5.jpg" /><br><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/6.jpg" /><br><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/7.png" /><br><br>
+<img width="300px" height="500px" src="https://github.com/jingong/WeChat/blob/master/screenshot/8.jpg" /><br><br>
 <br>
 ###前端控制台输出：<br>
-<img src="https://github.com/jingong/WeChat/blob/master/screenshot/10.png" /><br>
+<img src="https://github.com/jingong/WeChat/blob/master/screenshot/10.png" /><br><br>
 <br>
 <br>
 作品设计比较简单，主要实现的功能是登录和聊天。<br>
