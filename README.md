@@ -14,7 +14,7 @@
 <img src="https://github.com/jingong/WeChat/blob/master/screenshot/9.png" /><br>
 <br>
 ###前端截图：<br>
-<img src="https://github.com/jingong/WeChat/blob/master/screenshot/3.jpg" /><br>
+<img width="200px" height="600px" src="https://github.com/jingong/WeChat/blob/master/screenshot/3.jpg" /><br>
 <img src="https://github.com/jingong/WeChat/blob/master/screenshot/4.jpg" /><br>
 <img src="https://github.com/jingong/WeChat/blob/master/screenshot/5.jpg" /><br>
 <img src="https://github.com/jingong/WeChat/blob/master/screenshot/6.jpg" /><br>
